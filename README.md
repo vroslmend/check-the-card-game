@@ -51,7 +51,7 @@ Be the player with the lowest total card value at the end of the round.
 
 1. **Clone the repository**:
    `
-   git clone https://github.com/yourusername/check-the-game-next.git
+   git clone https://github.com/vroslmend/check-the-game-next.git
    cd check-the-game-next
    `
 
