@@ -75,7 +75,7 @@ Be the player with the lowest total card value at the end of the round.
    This will start the backend server on `http://localhost:3001`.
 
 5. **Run the frontend**:
-   In the **frontend** directory, run:
+   In the **front-end** directory, run:
    `
    npm run dev
    `
